@@ -2,7 +2,7 @@
 Legit Popper written entirely in React with no dependencies (outside of `styled-components`). No jQuery.
 
 # Install
-Run ```npm install react-legit-popper```
+Run ```npm install legit-popper-react```
 
 # To Use
 Import via `import LegitPopper from "react-legit-popper"`
